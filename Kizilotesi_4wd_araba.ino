@@ -2,7 +2,7 @@
 #include <IRremoteInt.h>  //İndirdiğimiz IR kütüphanelerini programımıza dahil ediyoruz
 
 const int RECV_PIN = 2;      // Kızılötesi alıcımızın pinini belirliyoruz.
-
+//Comment
 //L298N Bağlantısı
 const int SolMotor1  = 5;  // L298N'in IN1 Girişi
 const int SolMotor2  = 6;  // L298N'in IN2 Girişi
